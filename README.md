@@ -3,5 +3,5 @@ Just learning
 
 Hey There!
 
-Murilo here! I'm a brand new student in programming languages
+Murilo here! I'm a brand new student in programming languages <br>
 In love with these things, like to take some coffee and spend hours reading about.
